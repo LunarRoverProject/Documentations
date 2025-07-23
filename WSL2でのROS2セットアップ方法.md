@@ -5,7 +5,7 @@ RAM要件：16GB以上あると望ましい　最低8
 ## Windowsの機能を有効可
 1. Windowsの機能の有効化または無効化　を開く
 2. 以下のようなウィンドウが出る
-   ![[Pasted image 20250723112204.png]]
+   ![[images/Pasted image 20250723112204.png]]
 3. 以下を有効化し、OK
    - Hyper-V
    - Linux用Windowsサブシステム
